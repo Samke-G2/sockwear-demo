@@ -33,3 +33,86 @@ Elevate your sock game with Notable Sockwear - where comfort meets style. Start 
 --- 
 
 Feel free to customize the content further based on the specific features and benefits of your sock ecommerce site.
+
+
+<Html ABOUT US>		
+
+<section id="about-us-sockwear">
+
+	<div class="content-wrap">
+	    <div class="container">
+
+			<div class="row col-mb-50 mb-0">
+
+				<div class="col-lg-4">
+
+					<div class="heading-block fancy-title border-bottom-0 title-bottom-border">
+						<h4>Why choose <span>Us</span>.</h4>
+				    </div>
+
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi quidem minus id omnis, nam expedita, ea fuga commodi voluptas iusto, hic autem deleniti dolores explicabo labore enim repellat earum perspiciatis.</p>
+
+				</div>
+
+				<div class="col-lg-4">
+
+					<div class="heading-block fancy-title border-bottom-0 title-bottom-border">
+						<h4>Our <span>Mission</span>.</h4>
+					</div>
+
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi quidem minus id omnis, nam expedita, ea fuga commodi voluptas iusto, hic autem deleniti dolores explicabo labore enim repellat earum perspiciatis.</p>
+
+				</div>
+
+				<div class="col-lg-4">
+
+					<div class="heading-block fancy-title border-bottom-0 title-bottom-border">
+						<h4>What we <span>Do</span>.</h4>
+					</div>
+
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi quidem minus id omnis, nam expedita, ea fuga commodi voluptas iusto, hic autem deleniti dolores explicabo labore enim repellat earum perspiciatis.</p>
+
+				</div>
+
+			</div>
+
+		</div>
+
+		<div class="section m-0">
+			<div class="container">
+
+				<div class="row col-mb-50">
+
+					<div class="col-sm-6 col-lg-3 text-center" data-animate="bounceIn">
+						<i class="i-plain i-xlarge mx-auto bi-signpost-split"></i>
+						<div class="counter counter-lined"><span data-from="100" data-to="846" data-refresh-interval="50" data-speed="2000"></span>K+</div>
+							<h5>Lines of Codes</h5>
+						</div>
+                    </div>
+
+					<div class="col-sm-6 col-lg-3 text-center" data-animate="bounceIn" data-delay="200">
+						<i class="i-plain i-xlarge mx-auto mb-0 bi-bezier"></i>
+						<div class="counter counter-lined"><span data-from="3000" data-to="15360" data-refresh-interval="100" data-speed="2500"></span>+</div>
+							<h5>KBs of HTML Files</h5>
+						</div>
+                    </div>
+
+					<div class="col-sm-6 col-lg-3 text-center" data-animate="bounceIn" data-delay="400">
+						<i class="i-plain i-xlarge mx-auto mb-0 bi-layers"></i>
+						<div class="counter counter-lined"><span data-from="10" data-to="408" data-refresh-interval="25" data-speed="3500"></span>*</div>
+							<h5>No. of Templates</h5>
+						</div>
+                    </div>
+
+					<div class="col-sm-6 col-lg-3 text-center" data-animate="bounceIn" data-delay="600">
+						<i class="i-plain i-xlarge mx-auto mb-0 bi-clock"></i>
+						<div class="counter counter-lined"><span data-from="60" data-to="1200" data-refresh-interval="30" data-speed="2700"></span>+</div>
+							<h5>Hours of Coding</h5>
+						</div>
+					</div>  
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
